@@ -87,6 +87,3 @@ It contains order-level information including:
 ###  Author
 
 **Bita Koohestani**
-Computer Engineering Student | Data Analysis Enthusiast
-📧 [[BitaKoohestani82@gmail.com](mailto:BitaKoohestani82@gmail.com)]
-🌐 [GitHub Profile](https://github.com/Bittiw)
