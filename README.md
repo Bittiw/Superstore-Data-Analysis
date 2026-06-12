@@ -32,7 +32,7 @@ Using **Python** and key data analysis libraries, the notebook demonstrates a st
 | -------------------- | -------------------------------------------------------------------- |
 | Programming Language | **Python 3.x**                                                       |
 | Libraries            | **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Scikit-learn** |
-| Visualization        | **Matplotlib**, **Seaborn**, **Power BI** (optional extension)       |
+| Visualization        | **Matplotlib**, **Seaborn**, **Power BI**       |
 | Environment          | **Jupyter Notebook**                                                 |
 
 
@@ -54,7 +54,6 @@ It contains order-level information including:
 * Product Category and Sub-Category
 * Sales, Quantity, Discount, and Profit
 
-*(You can include your own dataset file or link it here if available.)*
 
 
 ###  How to Run This Project
